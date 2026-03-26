@@ -64,7 +64,7 @@ Currently learning/building toward:
 ---
 
 ## 🌐 Connect
-- LinkedIn: [![ibrahima-diallo-12d/](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ibrahima-diallo-12d/)
+- LinkedIn: [![](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ibrahima-diallo-12d/)
 
 ---
 
